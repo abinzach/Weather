@@ -198,3 +198,20 @@ text-transform: capitalize;
     }
 }
 
+@media (max-width: 600px) {
+    
+  
+    
+  
+    .container {
+      width: 300px;
+
+    }
+    .search-box input::placeholder{
+        font-size: 15px;
+        font-weight: 500;
+        color: rgba(177, 170, 170, 0.748);
+        text-transform: capitalize;
+        }
+    /* Add more CSS rules for other elements */
+  }
