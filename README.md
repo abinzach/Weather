@@ -12,6 +12,7 @@ Key Features:
 •	Responsive design: The app is optimized for various devices, including desktops, tablets, and mobile phones, providing a seamless experience across different screen sizes.
 •	Minimal candy design: The app showcases weather icons and background images that reflect the current weather conditions, enhancing the user experience.
 •	User-friendly interface: The clean and intuitive interface allows users to navigate the app effortlessly and access information quickly.
+
 Technologies Used:
 
 •	HTML5, CSS3, JavaScript: The front-end of the app is built using these core web technologies to create the structure, style, and interactivity.
